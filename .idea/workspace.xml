@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00d7dbcd-506c-4e0b-8a97-ecbab4753bbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bWYQUzISgUsMBIWIHQJH6OAwEU" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.RandomizedQueue">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Deque" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="Deque" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="Deque" />
+      <option name="PROGRAM_PARAMETERS" value="8" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$USER_HOME$/Documents/Development/Coursera/Algorithms/Input/duplicates.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
+      <module name="Deque" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Deque" />
+      <item itemvalue="Application.Permutation" />
+      <item itemvalue="Application.RandomizedQueue" />
+    </list>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588928941882">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="208" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.23.1392.877@48.23.1392.877" timestamp="1588928941882" />
+    <state x="557" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1588749720666">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="557" y="189" key="#com.intellij.ide.util.MemberChooser/48.23.1392.877@48.23.1392.877" timestamp="1588749720666" />
+    <state x="481" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588881024011">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="481" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/48.23.1392.877@48.23.1392.877" timestamp="1588881024011" />
+    <state width="428" height="466" key="DebuggerActiveHint" timestamp="1588882348524">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="428" height="466" key="DebuggerActiveHint/48.23.1392.877@48.23.1392.877" timestamp="1588882348524" />
+    <state width="1392" height="225" key="GridCell.Tab.0.bottom" timestamp="1588973286496">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1588973286496" />
+    <state width="1392" height="225" key="GridCell.Tab.0.center" timestamp="1588973286495">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1588973286495" />
+    <state width="1392" height="225" key="GridCell.Tab.0.left" timestamp="1588973286495">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1588973286495" />
+    <state width="1392" height="225" key="GridCell.Tab.0.right" timestamp="1588973286495">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1588973286495" />
+    <state width="1392" height="225" key="GridCell.Tab.1.bottom" timestamp="1588973286400">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.1.bottom/48.23.1392.877@48.23.1392.877" timestamp="1588973286400" />
+    <state width="1392" height="225" key="GridCell.Tab.1.center" timestamp="1588973286400">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.1.center/48.23.1392.877@48.23.1392.877" timestamp="1588973286400" />
+    <state width="1392" height="225" key="GridCell.Tab.1.left" timestamp="1588973286399">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.1.left/48.23.1392.877@48.23.1392.877" timestamp="1588973286399" />
+    <state width="1392" height="225" key="GridCell.Tab.1.right" timestamp="1588973286400">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="225" key="GridCell.Tab.1.right/48.23.1392.877@48.23.1392.877" timestamp="1588973286400" />
+    <state x="232" y="43" key="SettingsEditor" timestamp="1588882949693">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="232" y="43" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1588882949693" />
+  </component>
+</project>
