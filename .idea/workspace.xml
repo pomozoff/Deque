@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d7dbcd-506c-4e0b-8a97-ecbab4753bbb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RandomizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomizedQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +38,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Deque">
+  <component name="RunManager" selected="Application.Permutation">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -52,7 +54,7 @@
     <configuration name="Permutation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Permutation" />
       <module name="Deque" />
-      <option name="PROGRAM_PARAMETERS" value="8" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/../../Coursera/Algorithms/Input/duplicates.txt" />
       <method v="2">
@@ -81,9 +83,10 @@
     </list>
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588928941882">
-      <screen x="48" y="23" width="1392" height="877" />
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589019992401">
+      <screen x="47" y="23" width="1393" height="877" />
     </state>
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1393.877@47.23.1393.877" timestamp="1589019992401" />
     <state x="208" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.23.1392.877@48.23.1392.877" timestamp="1588928941882" />
     <state x="557" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1588749720666">
       <screen x="48" y="23" width="1392" height="877" />
@@ -97,45 +100,50 @@
       <screen x="48" y="23" width="1392" height="877" />
     </state>
     <state width="428" height="466" key="DebuggerActiveHint/48.23.1392.877@48.23.1392.877" timestamp="1588882348524" />
-    <state width="1393" height="237" key="GridCell.Tab.0.bottom" timestamp="1589017949754">
+    <state width="1393" height="225" key="GridCell.Tab.0.bottom" timestamp="1589020035703">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state width="1393" height="237" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1589017949754" />
+    <state width="1393" height="225" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1589020035703" />
     <state width="1392" height="225" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1588973286496" />
-    <state width="1393" height="237" key="GridCell.Tab.0.center" timestamp="1589017949753">
+    <state width="1393" height="225" key="GridCell.Tab.0.center" timestamp="1589020035702">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state width="1393" height="237" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1589017949753" />
+    <state width="1393" height="225" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1589020035702" />
     <state width="1392" height="225" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1588973286495" />
-    <state width="1393" height="237" key="GridCell.Tab.0.left" timestamp="1589017949752">
+    <state width="1393" height="225" key="GridCell.Tab.0.left" timestamp="1589020035701">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state width="1393" height="237" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1589017949752" />
+    <state width="1393" height="225" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1589020035701" />
     <state width="1392" height="225" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1588973286495" />
-    <state width="1393" height="237" key="GridCell.Tab.0.right" timestamp="1589017949754">
+    <state width="1393" height="225" key="GridCell.Tab.0.right" timestamp="1589020035703">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state width="1393" height="237" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1589017949754" />
+    <state width="1393" height="225" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1589020035703" />
     <state width="1392" height="225" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1588973286495" />
-    <state width="1392" height="225" key="GridCell.Tab.1.bottom" timestamp="1588973286400">
-      <screen x="48" y="23" width="1392" height="877" />
+    <state width="1393" height="225" key="GridCell.Tab.1.bottom" timestamp="1589020035597">
+      <screen x="47" y="23" width="1393" height="877" />
     </state>
+    <state width="1393" height="225" key="GridCell.Tab.1.bottom/47.23.1393.877@47.23.1393.877" timestamp="1589020035597" />
     <state width="1392" height="225" key="GridCell.Tab.1.bottom/48.23.1392.877@48.23.1392.877" timestamp="1588973286400" />
-    <state width="1392" height="225" key="GridCell.Tab.1.center" timestamp="1588973286400">
-      <screen x="48" y="23" width="1392" height="877" />
+    <state width="1393" height="225" key="GridCell.Tab.1.center" timestamp="1589020035597">
+      <screen x="47" y="23" width="1393" height="877" />
     </state>
+    <state width="1393" height="225" key="GridCell.Tab.1.center/47.23.1393.877@47.23.1393.877" timestamp="1589020035597" />
     <state width="1392" height="225" key="GridCell.Tab.1.center/48.23.1392.877@48.23.1392.877" timestamp="1588973286400" />
-    <state width="1392" height="225" key="GridCell.Tab.1.left" timestamp="1588973286399">
-      <screen x="48" y="23" width="1392" height="877" />
+    <state width="1393" height="225" key="GridCell.Tab.1.left" timestamp="1589020035597">
+      <screen x="47" y="23" width="1393" height="877" />
     </state>
+    <state width="1393" height="225" key="GridCell.Tab.1.left/47.23.1393.877@47.23.1393.877" timestamp="1589020035597" />
     <state width="1392" height="225" key="GridCell.Tab.1.left/48.23.1392.877@48.23.1392.877" timestamp="1588973286399" />
-    <state width="1392" height="225" key="GridCell.Tab.1.right" timestamp="1588973286400">
-      <screen x="48" y="23" width="1392" height="877" />
+    <state width="1393" height="225" key="GridCell.Tab.1.right" timestamp="1589020035597">
+      <screen x="47" y="23" width="1393" height="877" />
     </state>
+    <state width="1393" height="225" key="GridCell.Tab.1.right/47.23.1393.877@47.23.1393.877" timestamp="1589020035597" />
     <state width="1392" height="225" key="GridCell.Tab.1.right/48.23.1392.877@48.23.1392.877" timestamp="1588973286400" />
-    <state x="232" y="43" key="SettingsEditor" timestamp="1588882949693">
-      <screen x="48" y="23" width="1392" height="877" />
+    <state x="231" y="43" key="SettingsEditor" timestamp="1589019984994">
+      <screen x="47" y="23" width="1393" height="877" />
     </state>
+    <state x="231" y="43" key="SettingsEditor/47.23.1393.877@47.23.1393.877" timestamp="1589019984994" />
     <state x="232" y="43" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1588882949693" />
   </component>
 </project>
