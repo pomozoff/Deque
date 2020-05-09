@@ -1,5 +1,6 @@
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
+import edu.princeton.cs.algs4.StdRandom;
 
 public final class Permutation {
     private Permutation() {
@@ -20,15 +21,25 @@ public final class Permutation {
             return;
         }
 
-        RandomizedQueue<String> randomQueue = new RandomizedQueue<>();
+        RandomizedQueue<String> queue = new RandomizedQueue<>();
 
+        int n = 0;
         while (!StdIn.isEmpty()) {
             String string = StdIn.readString();
-            randomQueue.enqueue(string);
+            n++;
+
+            if (n > k) {
+                if (StdRandom.uniform(n) >= k) {
+                    continue;
+                }
+                queue.dequeue();
+            }
+
+            queue.enqueue(string);
         }
 
         for (int i = 0; i < k; i++) {
-            String value = randomQueue.dequeue();
+            String value = queue.dequeue();
             StdOut.println(value);
         }
     }
